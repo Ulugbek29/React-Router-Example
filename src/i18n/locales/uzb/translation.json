@@ -1,0 +1,23 @@
+{
+    "side-bar": {
+        "stock": "Aksiya",
+        "reviews": "Sharhlar",
+        "banners": "Bannerlar",
+        "pop-up": "Pop-Up",
+        "notifications": "Bildirishnomalar",
+        "rejects": "Rad Etish sabablari",
+        "terminations": "Tugatish sabablari"
+    },
+    
+    "general-settings": "Umumiy sozlamalar",
+    "lang": {
+        "rus": "Ruscha",
+        "eng": "Ingliz",
+        "uzb": "Uzbek"
+    },
+    "product-image": "Mahsulot tasviri",
+    "name": "Ism",
+    "date": "Davr (sana va vaqt)",
+    "description": "Tavsif",
+    "upload-file": "Faylni yuklab oling"
+}

@@ -1,0 +1,24 @@
+{   
+    "side-bar": {
+        "stock": "Discounts",
+        "reviews": "Reviews",
+        "banners": "Banners",
+        "pop-up": "Pop-Up",
+        "notifications": "Notifications",
+        "rejects": "Rejects",
+        "terminations": "Terminations"
+    },
+
+
+        "general-settings": "General settings",
+        "lang": {
+            "rus": "Russian",
+            "eng": "English",
+            "uzb": "Uzbek"
+        },
+        "product-image": "Product image",
+        "name": "Name",
+        "date": "Period (Date and Time)",
+        "description": "Description",
+        "upload-file": "Upload File"
+}

@@ -1,0 +1,18 @@
+.language__type::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 2px;
+    width: 100%;
+    background: blue;
+    transform-origin: right;
+    transform:scaleX(0);
+    transition: transform 0.5s;
+}
+
+.language__type:hover::after {
+    transform-origin: left;
+    transform: scaleX(1);
+}
+
